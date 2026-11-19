@@ -1,0 +1,79 @@
+{
+  "confidence_threshold": 0.3473,
+  "iou_match": 0.5,
+  "overall": {
+    "accuracy_pct": 75.73,
+    "macro_accuracy_pct": 75.78,
+    "TP": 1944,
+    "FP": 231,
+    "FN": 392,
+    "precision_recomputed": 0.8938,
+    "recall_recomputed": 0.8322,
+    "ultralytics_precision": 0.8973,
+    "ultralytics_recall": 0.8261,
+    "mAP50": 0.872,
+    "mAP50-95": 0.3826
+  },
+  "per_class": {
+    "Open": {
+      "accuracy_pct": 81.98,
+      "TP": 282,
+      "FP": 28,
+      "FN": 34,
+      "precision": 0.9074,
+      "recall": 0.8766,
+      "mAP50": 0.9101,
+      "mAP50-95": 0.3853
+    },
+    "Short": {
+      "accuracy_pct": 72.23,
+      "TP": 463,
+      "FP": 64,
+      "FN": 114,
+      "precision": 0.8851,
+      "recall": 0.7972,
+      "mAP50": 0.8446,
+      "mAP50-95": 0.3392
+    },
+    "Mousebite": {
+      "accuracy_pct": 78.32,
+      "TP": 372,
+      "FP": 30,
+      "FN": 73,
+      "precision": 0.938,
+      "recall": 0.8337,
+      "mAP50": 0.9086,
+      "mAP50-95": 0.3834
+    },
+    "Spur": {
+      "accuracy_pct": 78.27,
+      "TP": 371,
+      "FP": 43,
+      "FN": 60,
+      "precision": 0.9039,
+      "recall": 0.8654,
+      "mAP50": 0.8956,
+      "mAP50-95": 0.4396
+    },
+    "Missing-hole": {
+      "accuracy_pct": 70.41,
+      "TP": 207,
+      "FP": 26,
+      "FN": 61,
+      "precision": 0.8838,
+      "recall": 0.7659,
+      "mAP50": 0.8178,
+      "mAP50-95": 0.3733
+    },
+    "Copper": {
+      "accuracy_pct": 73.45,
+      "TP": 249,
+      "FP": 40,
+      "FN": 50,
+      "precision": 0.8655,
+      "recall": 0.8176,
+      "mAP50": 0.8553,
+      "mAP50-95": 0.3751
+    }
+  }
+}

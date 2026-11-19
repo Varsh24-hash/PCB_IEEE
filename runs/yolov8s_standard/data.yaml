@@ -1,0 +1,10 @@
+names:
+  0: Open
+  1: Short
+  2: Mousebite
+  3: Spur
+  4: Missing-hole
+  5: Copper
+path: /Users/varshini24/Documents/PCB_IEEE_folder/runs/yolov8s_standard
+train: train.txt
+val: val.txt

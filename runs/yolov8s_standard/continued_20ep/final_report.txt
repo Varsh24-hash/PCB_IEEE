@@ -1,0 +1,16 @@
+Additional training time: 8658 s (144.3 min)
+Additional epochs:        20
+Best epoch (of these):    20  (= epoch 25 overall)
+mAP50:                    0.8720
+mAP50-95:                 0.3826
+Precision:                0.8973
+Recall:                   0.8261
+Per-class (P / R / mAP50 / mAP50-95):
+  Open          0.9074 / 0.8766 / 0.9101 / 0.3853
+  Short         0.8851 / 0.7972 / 0.8446 / 0.3392
+  Mousebite     0.9380 / 0.8337 / 0.9086 / 0.3834
+  Spur          0.9039 / 0.8654 / 0.8956 / 0.4396
+  Missing-hole  0.8838 / 0.7659 / 0.8178 / 0.3733
+  Copper        0.8655 / 0.8176 / 0.8553 / 0.3751
+best.pt: /Users/varshini24/Documents/PCB_IEEE_folder/runs/yolov8s_standard/continued_20ep/train/weights/best.pt
+last.pt: /Users/varshini24/Documents/PCB_IEEE_folder/runs/yolov8s_standard/continued_20ep/train/weights/last.pt
